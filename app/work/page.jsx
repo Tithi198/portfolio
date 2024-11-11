@@ -26,23 +26,23 @@ const projects = [
     category: "frontend",
     title: "project 1",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipiscing elit. Cupiditate magnam modi.",
+      "The Clyde project is a sleek, intuitive web platform that offers users a streamlined experience for managing tasks or content. Ideal for users seeking a modern solution to organize and prioritize information.",
     stack: [{ name: "Html 5" }, { name: "Css 3" }, { name: "Javascript" }],
-    image: "/assets/work/thumb1.png",
-    live: "",
-    github: "",
+    image: "/assets/work/thumb2.png",
+    live: "https://clyde-rho.vercel.app/",
+    github: "https://github.com/Tithi198/Clyde",
   },
 
   {
     num: "02",
-    category: "fullstack",
+    category: "frontend",
     title: "project 2",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipiscing elit. Cupiditate magnam modi.",
+      "The Coffee Shop project is a dynamic, React-based web application designed to simulate an engaging online experience for a coffee shop. Perfect for demonstrating e-commerce functionality, this project highlights a clean, modern interface that enhances the user experience and makes browsing enjoyable.",
     stack: [{ name: "Next.js" }, { name: "Tailwind.css" }, { name: "Node.js" }],
-    image: "/assets/work/thumb2.png",
-    live: "",
-    github: "",
+    image: "/assets/work/thumb1.png",
+    live: "https://coffee-shop-react-mauve.vercel.app/?vercelToolbarCode=AmWj-J0qppQA2wn",
+    github: "https://github.com/Tithi198/coffee-shop-react",
   },
 
   {
@@ -50,11 +50,11 @@ const projects = [
     category: "frontend",
     title: "project 3",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipiscing elit. Cupiditate magnam modi.",
-    stack: [{ name: "Next.js" }, { name: "Tailwind.css" },],
+      "The Mailer Website project is a responsive, easy-to-use web application designed for creating and managing email campaigns efficiently.Ideal for businesses, marketers, and individuals, this tool enhances email communication with streamlined workflows and visually appealing design on both desktop and mobile platforms.",
+    stack: [{ name: "Html" }, { name: "Css" }, { name: "Scss" },{name: "javascript"}],
     image: "/assets/work/thumb3.png",
-    live: "",
-    github: "",
+    live: "https://mailer-website.vercel.app/",
+    github: "https://github.com/Tithi198/Mailer-website",
   },
 
 ];
