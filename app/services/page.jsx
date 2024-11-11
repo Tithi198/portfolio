@@ -7,29 +7,29 @@ const services = [
   {
     num: '01',
     title: 'Web Development',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    href: "",
+    description: 'Web development involves creating, designing, and maintaining websites to ensure functionality, user experience, and performance across devices. It combines coding, visual design, and user-focused elements to build engaging digital platforms.',
+    href: "https://vercel.com/marzanas-projects",
   },
 
   {
     num: '02',
     title: 'UI/UX Design',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    href: "",
+    description: 'UI/UX design combines aesthetic appeal with seamless functionality to create user-centered digital experiences that are both intuitive and engaging. It focuses on understanding user behavior to design visually appealing and highly functional interfaces.',
+    href: "https://dribbble.com/ridibaraya",
   },
 
   {
     num: '03',
     title: 'Logo Design',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    href: "",
+    description: 'Creating unique and memorable logos that capture brand identity with simplicity and precision, ensuring a lasting impression on audiences.',
+    href: "https://dribbble.com/ridibaraya",
   },
 
   {
     num: '04',
-    title: 'SEO',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    href: "",
+    title: 'Digital Marketing',
+    description: 'Digital marketing leverages online channels like social media, email, and search engines to connect with target audiences, boost brand awareness, and drive conversions through strategic, data-driven campaigns.',
+    href: "https://www.facebook.com/profile.php?id=61550782535552",
   },
 
 
