@@ -21,7 +21,7 @@ const info = [
   {
     icon: <FaPhoneAlt />,
     title: "Phone",
-    description: "(+40) 321 654 876",
+    description: "(+880) 194 504 1193",
   },
   {
     icon: <FaEnvelope />,
@@ -32,7 +32,7 @@ const info = [
   {
     icon: <FaMapMarkerAlt />,
     title: "Address",
-    description: "Niketon, gulashan1, dhaka",
+    description: "Niketon, Gulashan1, Dhaka",
   },
 ];
 
